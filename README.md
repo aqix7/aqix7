@@ -1,4 +1,3 @@
-- I’m Aqil
 - Web Developer
 - Knows HTML, CSS, JavaScript.
 - Reach me on IG for any collaboration : aqix7
