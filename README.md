@@ -1,6 +1,6 @@
 - Web Developer
 - Knows HTML, CSS, JavaScript.
-- Reach me on IG for any collaboration : aqix7
+- Reach me on IG for any collaboration : @aqix7
 
 <!---
 aqix7/aqix7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
