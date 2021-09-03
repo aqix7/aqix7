@@ -1,6 +1,6 @@
-- I’m @aqix7
+- I’m Aqil
 - Web Developer
-- HTML, CSS, JavaScript.
+- Knows HTML, CSS, JavaScript.
 - Reach me on IG for any collaboration : aqix7
 
 <!---
